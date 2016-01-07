@@ -8,11 +8,11 @@
  */
 class Calhangator
 {
-    public $profile_picture = "http://www.gravatar.com/avatar/508a80376c9040237be93e9131fa0853";
-    public $he_firstname = "";
-    public $he_lastname = "";
-    public $me_name = "";
-    public $me_job = "";
+    public $profile_picture = "http://static1.wikia.nocookie.net/__cb20130304122244/angrybirdsfanon/images/f/f0/Angry_Bird_red.png";
+    public $he_firstname = "Femme";
+    public $he_lastname = "Fatale";
+    public $me_name = "Özge Nur";
+    public $me_job = "Tıpçı";
 
     /**
      *
