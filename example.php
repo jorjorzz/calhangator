@@ -10,10 +10,10 @@ require "Calhangator.php";
 
 $chat = new Calhangator();
 
-$chat->profile_picture = "http://mostfamousperson.net/BillGates.png";
-$chat->he_firstname = "Bill";
-$chat->he_lastname = "Gates";
-$chat->me_name = "Ömer Çıtak";
-$chat->me_job = "kodcu";
+$chat->profile_picture = "http://static1.wikia.nocookie.net/__cb20130304122244/angrybirdsfanon/images/f/f0/Angry_Bird_red.png";
+$chat->he_firstname = "Femme";
+$chat->he_lastname = "Fatale";
+$chat->me_name = "Özge Nur";
+$chat->me_job = "tıpçı";
 
 $chat->render();
